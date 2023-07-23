@@ -7,7 +7,6 @@
 
 import Foundation
 
-
 func printBody(body: String, topping: String = "") {
     print("\(topping)\(body)\(topping)")
 }
